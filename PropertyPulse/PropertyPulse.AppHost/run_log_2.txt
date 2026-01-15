@@ -1,0 +1,16 @@
+Using launch settings from E:\Work Files\Workspace\ASP Net Course\PropertyViewer\PropertyPulse\PropertyPulse.AppHost\Properties\launchSettings.json...
+Building...
+info: Aspire.Hosting.DistributedApplication[0]
+      Aspire version: 13.1.0+8a4db1775c3fbae1c602022b636299cb04971fde
+info: Aspire.Hosting.DistributedApplication[0]
+      Distributed application starting.
+info: Aspire.Hosting.DistributedApplication[0]
+      Application host directory is: E:\Work Files\Workspace\ASP Net Course\PropertyViewer\PropertyPulse\PropertyPulse.AppHost
+warn: Aspire.Hosting.Dcp.DcpHost[0]
+      Container runtime 'docker' was found but appears to be unhealthy. Ensure that Docker is running and that the Docker daemon is accessible. If Resource Saver mode is enabled, containers may not run. For more information, visit: https://docs.docker.com/desktop/use-desktop/resource-saver/
+info: Aspire.Hosting.DistributedApplication[0]
+      Now listening on: https://localhost:17161
+info: Aspire.Hosting.DistributedApplication[0]
+      Login to the dashboard at https://localhost:17161/login?t=30a526925155a3c3e903f6f7c54ba7b8
+info: Aspire.Hosting.DistributedApplication[0]
+      Distributed application started. Press Ctrl+C to shut down.
